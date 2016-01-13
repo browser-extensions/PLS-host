@@ -24,7 +24,7 @@
 好了，能否有一个工具管理方便，又快捷简单呢？
 
 
-由于最近忙，没有详细测试完善，任何疑问，建议，欢迎[提交 Issues](https://github.com/Riant/host-switch-plus/issues).
+由于最近忙，没有详细测试完善，任何疑问，建议，欢迎[提交 Issues](https://github.com/browser-extensions/PLS-host/issues).
 
 
 
